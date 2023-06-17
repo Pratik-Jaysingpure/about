@@ -7,7 +7,7 @@
 
 
 
-<h1 align="center">Hi there, I'm <a href="https://Varshithvhegde.github.io">Varshith V Hegde!<a/></h1>
+<h1 align="center">Hi there, I'm <a href="https://pratik-jaysingpure.github.io/portfolio/">Pratik Jaysingpure !<a/></h1>
 
 <!--
 **Varshithvhegde/Varshithvhegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
