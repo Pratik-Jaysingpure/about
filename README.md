@@ -31,9 +31,9 @@ Here are some ideas to get you started:-->
 <summary>Load More</summary>
      <ul>
     <li><a href="https://pratik-jaysingpure.github.io/to-do/">To-DO List</a></li>
-    <li><a href="https://varshithvhegde.github.io/DigitalClock/">Digital Clock :timer_clock:</a></li>
-    <li><a href="https://varshithvhegde.github.io/weather">My Weather ☁</a></li>
-    <li><a href="https://varshithvhegde.me/profilecard/">My Profile Card👱‍♂️</a></li>
+    <li><a href="https://pratik-jaysingpure.github.io/digital-clock/">Digital Clock </a></li>
+    <li><a href="https://pratik-jaysingpure.github.io/colours/">Colours</a></li>
+    <li><a href="https://pratik-jaysingpure.github.io/e-bike/">E-Bike</a></li>
 
    </ul>
 </details></li></ul></ul>
