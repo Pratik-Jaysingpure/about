@@ -3,7 +3,7 @@
 
 
 <!--![Copy of Varshith V Hegde (1280 × 700 px) (1100 × 500 px)](https://user-images.githubusercontent.com/80502833/191967479-245e294e-6971-4236-9a6f-1244fe4da5f1.gif)-->
-![Purple Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/80502833/197458840-6bedfb2b-194c-48d7-b996-7a2ac7c1c3a5.gif)
+<!--![Purple Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/80502833/197458840-6bedfb2b-194c-48d7-b996-7a2ac7c1c3a5.gif) 
 
 
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:-->
     <li><a href="https://pratik-jaysingpure.github.io/e-bike/">E-Bike</a></li>
 
    </ul>
-</details></li></ul></ul>
+</details></li></ul></ul> -->
 <!--## My Contributions  
 ### Green Mode
 <a href="https://github.com/varshithvhegde"><img src="https://ghchart.rshah.org/varshithvhegde" alt="Vaarshithvhegde's Github chart"/></a>
