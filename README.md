@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
 
 
 
-- 🔭 I’m currently studying in G H Raisoni University Amravati 
+<!-- - 🔭 I’m currently studying in G H Raisoni University Amravati 
 - 🌱 I’m currently learning Full Stack Development  and MongoDB
 - 👯 I’m looking to collaborate on Software Development
 - 💬 Ask me about [myself](https://pratik-jaysingpure.github.io/portfolio/)
